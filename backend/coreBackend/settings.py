@@ -56,11 +56,11 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://realtime-chatapp-frontend.vercel.app",
+    "https://real-time-chat-application-eta.vercel.app/"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://realtime-chatapp-frontend.vercel.app",
+    "https://real-time-chat-application-eta.vercel.app/",
 ]
 
 # CORS_ALLOW_ALL_ORIGINS = True
