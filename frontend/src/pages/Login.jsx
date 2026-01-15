@@ -73,13 +73,6 @@ export default function Login({ onLogin, onShowRegister, onShowContact }) {
           >
             New user? Register
           </button>
-          {/* Button to switch to the Contact view. */}
-          <button
-            className="btn btn-link p-0"
-            onClick={onShowContact}
-          >
-            Need secret code?
-          </button>
         </div>
       </div>
     </div>
